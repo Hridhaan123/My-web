@@ -1,0 +1,7 @@
+body {
+    text-align: center;
+}
+#album {
+    border-bottom: 3px solid;
+    width:400px;
+}
